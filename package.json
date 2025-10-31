@@ -1,0 +1,15 @@
+{
+    "name": "tenjin-mkt",
+    "version": "1.15.14",
+    "displayName": "tenjin-mkt",
+    "description": "Repacked tenjin in the package form.",
+    "author": {
+        "name": "Andrey Melnikov",
+        "email": "andrey_melnikov_2002@icloud.com",
+        "url": "https://am-games.online"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andrey-melnikov/tenjin-mkt.git"
+    }
+}
